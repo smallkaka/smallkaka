@@ -1,8 +1,18 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=600&size=26&pause=1000&color=646AF7&width=435&lines=Hello!+Welecom+to+smallkaka!" alt="Typing SVG" />
-</a>
+<p align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+Welecom+to+smallkaka+!" alt="Typing SVG" /></a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallkaka&show_icons=true&theme=radical)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=smallkaka&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=smallkaka&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&column=-1&no-frame=true" width="600"/>
+</p>
+
+
+<p align="center"> 
+  <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=smallkaka&theme=tokyo-night" width="600"/>
+</p>
 
 
